@@ -1,2 +1,11 @@
-# Sales-Playbook-Wiki
-Collaborative Wiki documenting outreach strategies, CRM best practices, and customer success handoff processes.
+# Sales Playbook
+
+This repository contains a collaborative Wiki for SDRs and cross-functional teams.  
+- Outreach Strategy  
+- CRM Best Practices  
+- Customer Success Handoff  
+
+**Skills Demonstrated:**  
+- Documentation  
+- Collaboration  
+- Process improvement
